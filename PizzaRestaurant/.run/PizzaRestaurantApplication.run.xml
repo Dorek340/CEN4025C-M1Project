@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PizzaRestaurantApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="PizzaRestaurant" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="edu.fscj.cen4025c.pizzarestaurant.PizzaRestaurantApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
