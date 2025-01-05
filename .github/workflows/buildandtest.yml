@@ -1,13 +1,13 @@
 name: Build and Run TaskManager Application
 
-on:
-  push:
-    paths:
-      - 'TaskManager/**/*.java'
-  pull_request:
-    paths:
-      - 'TaskManager/**/*.java'
-  workflow_dispatch:  # Enables manual trigger
+#on:
+#  push:
+#    paths:
+#      - 'TaskManager/**/*.java'
+#  pull_request:
+#    paths:
+#      - 'TaskManager/**/*.java'
+#  workflow_dispatch:  # Enables manual trigger
 
 jobs:
   test:
